@@ -7,7 +7,7 @@ I’m a passionate full-stack developer. I mostly use ASP.NET Core to build perf
 - 👯 I’m looking to collaborate on Project
 - 🤔 I’m looking for help with Domain Driven Design 
 - 💬 Ask me about Full Stack Application Development
-- 📫 How to reach me: mail me dev.riyad@gmail.com or visit riyadkhan.net
+- 📫 How to reach me: mail me dev.riyad@gmail.com or visit [riyadkhan.net](https://riyadkhan.net/)
 - 😄 Pronouns: Riyad Khan
 
 <!--
